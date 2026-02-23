@@ -1,0 +1,17 @@
+Intructions to play Blackjack
+1) Theres a dealer's hand and a players hand (your cards)
+2) You will first get 2 cards
+3) Main objective: reach a value of 21 or get the closest to 21 without going over. 
+     NOTE: winning/losing is dependent on dealer
+4) If dealer's first 2 cards
+    - 17 or over: it must stand meaning no more cards for dealer
+    - 16 or under: dealer must take a card
+5) You don't know dealer's card value until after you decide 
+    
+    IMPORANT NOTICE: 
+        a. Cards with faces = 10 
+        b. Ace= 11 or 1 depending on if it will make the value exceed 21
+    TERMS
+        Bust: went over value of 21 = LOSE
+        Hit:requestion additonal card
+        Stand: declined additonal cards
